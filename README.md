@@ -1,6 +1,6 @@
 # zapache 1.5 - Apache monitoring script for Zabbix
 
-The script version 1.4 and template are taken from https://www.zabbix.com/wiki/templates/apache#method_3
+The script version 1.4 and template are taken from https://www.zabbix.org/wiki/Docs/howto/apache_monitoring_script#Method_3
 
 ## What's new
 
